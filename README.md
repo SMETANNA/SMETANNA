@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SMETANNA</h1>
-===========================================
 
 ### About me
 - 🌱 I’m currently learning **rust TUI crates**
