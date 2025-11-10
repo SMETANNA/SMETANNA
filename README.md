@@ -16,6 +16,9 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smetanna&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smetanna&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="smetanna's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=smetanna&theme=nightowl&hide_border=true&cache_seconds=86400" alt="smetanna's GitHub Streak" width="49%" />
 </p>
@@ -29,15 +32,6 @@
 ### Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="48" height="48" style="margin: 4px;" /></p>
 
-### DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
-
-### Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smetanna&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
