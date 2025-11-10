@@ -15,9 +15,11 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smetanna&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top Languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=smetanna&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="smetanna's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=smetanna&theme=nightowl&hide_border=true&cache_seconds=86400" alt="smetanna's GitHub Streak" width="49%" />
@@ -25,9 +27,6 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=smetanna&theme=nightowl&radius=10" alt="smetanna's Activity Graph" />
 </p>
-
-
-## 🛠️ Languages & Tools
 
 ### Programming Languages
 <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="48" height="48" style="margin: 4px;" /></p>
